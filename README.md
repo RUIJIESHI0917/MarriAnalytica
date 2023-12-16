@@ -41,7 +41,7 @@ To access and work with the Jupyter Notebook files (`.ipynb`) in this project, f
 2. **Feature Engineering**: Create RFM features based on customer transaction history.
 3. **Model Training**: Train regression models to predict customer lifetime value.
 4. **Analysis**: Use BG-NBD and GG models for customer segmentation.
-5. **Validation**: Validate the model using appropriate metrics and techniques.
+5. **Test**: Test the model using appropriate metrics and techniques.
 
 ## Team / Authors
 

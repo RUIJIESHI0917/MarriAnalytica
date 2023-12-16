@@ -33,7 +33,7 @@ To access and work with the Jupyter Notebook files (`.ipynb`) in this project, f
 - `Long Term CLV Calculation & Customer Segmentation Based on CLV.ipynb`: Jupyter Notebook containing Long Term CLV & Customer Segmentation.
 - `Short-Term_BG-NBD+GG_Example.ipynb`: Notebook demonstrating the implementation of the Buy 'Til You Die (BG-NBD) and Gamma-Gamma (GG) models.
 - `Group_A-Proof-of-Concept.pdf`: Document outlining the project concept and business objectives.
--  `All_Regression model and Validation`: This notebook encompasses various regression models to predict key customer metrics. It also includes validation techniques to ensure the accuracy and reliability of the models.
+- `All_CLV_Prediction_Models.ipynb`: This notebook encompasses various regression models to predict 2021 Customer Lifetime Value(CLV).
 
 ## Usage
 
